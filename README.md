@@ -810,7 +810,7 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- **Ahmed Saleem** - [@Munib796](https://github.com/Munib796)
+- **Muneeb Asghar** - [@Munib796](https://github.com/Munib796)
 
 ---
 
@@ -826,7 +826,7 @@ This project is licensed under the ISC License.
 
 ## 📞 Support
 
-For support, email 8298muneebasghar@gmail.com.com or open an issue on GitHub.
+For support, email 8298muneebasghar@gmail.com or open an issue on GitHub.
 
 ---
 
